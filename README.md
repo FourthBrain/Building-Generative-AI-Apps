@@ -3,4 +3,4 @@
      height="auto"/>
 </p>
 
-# <h1 align="center" id="heading">:wave: Welcome to Building Generative AI Applications Workshop!</h1>
+# <h1 align="center" id="heading">:wave: Welcome to the Building Generative AI Applications Workshop!</h1>
