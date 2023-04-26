@@ -12,23 +12,24 @@ ProductSnapAI is a Stable Diffusion project that allows you to create visual rep
 ## 🫓 Baseline
 Our baseline was generated utilizing the inference notebook with original stable diffusion v1.2 (shown) and v2.1.
 
-![image](https://user-images.githubusercontent.com/37101144/228467693-b6edcb03-1d76-40ce-b1a4-299802d5ce20.png)
+![image](https://user-images.githubusercontent.com/37101144/234615910-8a392e56-200c-482d-b5d0-591c54e23ec5.png)
 
-**prompt 1** "black hoodie with a front half zipper by martin valen"
+**prompt 1** "flashlight iOS icon"
 
-**prompt 2** "white hoodie with a blue design by martin valen"
+**prompt 2** "clothing ecommerce business iOS icon"
 
-**prompt 3** "stripped hoodie by martin valen"
+**prompt 3** "twitter iOS icon"
 
-**prompt 4** "camouflage hoodie by martin valen"
+**prompt 4** "Mike and Ike iOS icon"
 
 
 ## 📦 Data
-Our curated dataset is based on the images from [Martin Valen](https://martinvalen.com/en/sweatshirts-hoodies), which includes a variety of sweatshirts and hoodies. The dataset consists of textual descriptions of the brand name. The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](https://huggingface.co/datasets/Ali-fb/martin_valen_dataset).
+Our curated dataset is based on the images from [iOS Icon Gallery](https://www.iosicongallery.com/), which includes a variety of colorful and practical icons. The dataset consists of textual descriptions of the style "iOS icons". The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](hhttps://huggingface.co/datasets/Ali-fb/ios_icons).
 
-![image](https://user-images.githubusercontent.com/37101144/228462176-5d862ead-bebf-432a-8342-7c2208f51df9.png)
-![image](https://user-images.githubusercontent.com/37101144/228462236-94a4e540-6750-44a1-9d45-cfaffc8ab968.png)
-![image](https://user-images.githubusercontent.com/37101144/228462262-17695ab8-2af5-44c2-8c45-ec295ccebfb0.png)
+![icon_1](https://user-images.githubusercontent.com/37101144/234616573-576c81a3-804d-4795-8753-36247aa96004.png)
+![icon_7](https://user-images.githubusercontent.com/37101144/234616654-fe3b24be-f954-4e70-9b73-f79d9773cd11.png)
+![icon_9](https://user-images.githubusercontent.com/37101144/234616678-d71ada57-cd73-4501-9091-59d68d02bae8.png)
+
 
 
 ## 🤖 Example Model
@@ -52,19 +53,20 @@ ProductSnapAI can produce high-quality images from textual descriptions, with th
 - Improved realism in product images, resulting in a more engaging customer experience.
 - Faster generation times and improved efficiency, allowing for more rapid image generation at scale.
 
-![image](https://user-images.githubusercontent.com/37101144/228463036-88de373c-60ac-4bfe-8e01-a9b271843a59.png)
+![image](https://user-images.githubusercontent.com/37101144/234615795-10af6210-8a1d-41b8-96f0-debb4083ae1d.png)
 
-**prompt 1** "black hoodie with a front half zipper by martin valen"
 
-**prompt 2** "white hoodie with a blue design by martin valen"
+**prompt 1** "flashlight iOS icon"
 
-**prompt 3** "stripped hoodie by martin valen"
+**prompt 2** "clothing ecommerce business iOS icon"
 
-**prompt 4** "camouflage hoodie by martin valen"
+**prompt 3** "twitter iOS icon"
+
+**prompt 4** "Mike and Ike iOS icon"
 
 ## 🚀 Getting Started
 
-To use ProductSnapAI, simply use the provided notebooks to fine-tune the model using a small sample dataset of your product images. Run the provided scripts to generate product images from textual descriptions in your brand style. You can checkout our deployed model [here](https://huggingface.co/spaces/Ali-fb/Ali-fb-sd_martin_valen-model-v1-2_400)
+To use AiconOS, simply use the provided notebooks to fine-tune the model using a small sample dataset of your preffered icon images. Run the provided scripts to generate icon images from textual descriptions. You can checkout our deployed model [here](https://huggingface.co/Ali-fb/sd_aiconos-model-v1-2_400)
 
 ## 💬 Feedback and Contributions
 
