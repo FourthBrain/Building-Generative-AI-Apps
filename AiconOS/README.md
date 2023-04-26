@@ -28,7 +28,6 @@ Our curated dataset is based on the images from [iOS Icon Gallery](https://www.i
 
 ![icon_4](https://user-images.githubusercontent.com/37101144/234617014-8f592e80-124c-4fbd-9476-ad20fa4ce6cc.png)
 ![icon_2](https://user-images.githubusercontent.com/37101144/234617194-d8003f3c-d0a8-4a64-9e5e-bb67cb8e0e82.png)
-![icon_9](https://user-images.githubusercontent.com/37101144/234616678-d71ada57-cd73-4501-9091-59d68d02bae8.png)
 ![icon_10](https://user-images.githubusercontent.com/37101144/234617052-7d4e7eaf-d934-40a8-bb10-c355d26cc80b.png)
 
 
