@@ -1,13 +1,13 @@
-# 🖼️ ProductSnapAI
-## 💻 Stable Diffusion Model for E-Commerce Products Images
+# 🖼️ AiconOS
+## 💻 Stable Diffusion Model for iOS Software Development
 
-ProductSnapAI is a Stable Diffusion project that allows you to create visual representations of products in your brand style based on textual descriptions. The project is open-source and welcomes contributions from the community.
+AiconOS is a Stable Diffusion project that allows you to generate more accurate and vibrant iOS icons based on textual descriptions. The project is open-source and welcomes contributions from the community.
 
 ## 📔 Notebooks
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
-| 🏞️ **SD Inference Notebook**  | Run an inference on the standard stable diffusion models as a baseline | [Here](https://colab.research.google.com/drive/10wsWtMyM2lNFyGfck5I5MQmVcAggrlIW?usp=sharing) |
-| 🏋️ **SD Training Notebook**  | Train stable diffusion models on your dataset | [Here](https://colab.research.google.com/drive/1ZVSof0szrYoCO_lPNzP9ctTP_sZrUp1G?usp=sharing)   |
+| 🏞️ **SD Inference Notebook**  | Run an inference on the standard stable diffusion models as a baseline | [Here](https://colab.research.google.com/drive/1mtIcwR5L2iq72Vf3tNlaHLM5ONjXxADD?usp=sharing) |
+| 🏋️ **SD Training Notebook**  | Train stable diffusion models on your dataset | [Here](https://colab.research.google.com/drive/19WqKyZbKcMs-pscXnzDKWvtx6j_7Qeb2?usp=sharing)   |
 
 ## 🫓 Baseline
 Our baseline was generated utilizing the inference notebook with original stable diffusion v1.2 (shown) and v2.1.
@@ -26,23 +26,24 @@ Our baseline was generated utilizing the inference notebook with original stable
 ## 📦 Data
 Our curated dataset is based on the images from [iOS Icon Gallery](https://www.iosicongallery.com/), which includes a variety of colorful and practical icons. The dataset consists of textual descriptions of the style "iOS icons". The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](hhttps://huggingface.co/datasets/Ali-fb/ios_icons).
 
-![icon_1](https://user-images.githubusercontent.com/37101144/234616573-576c81a3-804d-4795-8753-36247aa96004.png)
-![icon_7](https://user-images.githubusercontent.com/37101144/234616654-fe3b24be-f954-4e70-9b73-f79d9773cd11.png)
+![icon_4](https://user-images.githubusercontent.com/37101144/234617014-8f592e80-124c-4fbd-9476-ad20fa4ce6cc.png)
+![icon_2](https://user-images.githubusercontent.com/37101144/234617194-d8003f3c-d0a8-4a64-9e5e-bb67cb8e0e82.png)
 ![icon_9](https://user-images.githubusercontent.com/37101144/234616678-d71ada57-cd73-4501-9091-59d68d02bae8.png)
+![icon_10](https://user-images.githubusercontent.com/37101144/234617052-7d4e7eaf-d934-40a8-bb10-c355d26cc80b.png)
 
 
 
 ## 🤖 Example Model
-The Stable Diffusion model was fine-tuned on our curated dataset for Martin Valen to optimize for business use cases, such as generating product images for the e-commerce website and social media. This method can be used to to train a model for any e-commerce business. You can checkout the sample model [here](https://huggingface.co/Ali-fb/sd_martin_valen-model-v1-2_400).
+The Stable Diffusion model was fine-tuned on our curated dataset for iOS Icons to generate icons for software development applications. This method can be used to to train a model for any os/platform. You can checkout the sample model [here](https://huggingface.co/Ali-fb/sd_aiconos-model-v1-2_400).
 
 ## 💰 Benefits for Businesses
 
-ProductSnapAI can provide the following benefits for businesses:
+AiconsUS can provide the following benefits for mobile software development:
 
-- Enhance brand consistency by generating images that align with the company's branding style and visual identity.
-- Save time and resources by automating the image creation process, allowing businesses to quickly generate high-quality images of their products with respect to their company branding style without the need for professional photography or graphic design services.
-- Improve the customer experience by providing accurate and detailed representations of products that do not yet exist, which can help to increase customer engagement and product improvement.
-- Increase sales and customer satisfaction by providing engaging and realistic product images that accurately reflect the product's features, colors, and materials.
+- **Accurate and vibrants icons:** AiconOS uses stable diffusion algorithms to create high-quality icons that are more accurate, vibrant, and realistic.
+- **Customizable options:** The software provides customizable options that allow users to create unique icons tailored to their specific needs.
+- **Supports various icon sizes:** AiconOS supports various icon sizes, including 512x512, 256x256, 128x128, 64x64, 32x32, and 16x16, making it suitable for different use cases.
+- **Multiple file format support:** AiconOS supports multiple file formats, including PNG, JPG, SVG, and ICO, ensuring compatibility with different platforms.
 
 
 ## 📊 Results
