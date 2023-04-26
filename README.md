@@ -17,5 +17,5 @@ During this course, you will build, ship, and share your own end-to-end Generati
 
 ## :collision: Example Applications
 This repo contains two example projects that we will demo during the workshop.  Click on the product names below for more information.
-- [ ] [ProductSnapAI](https://www.notion.so/Building-a-Generative-AI-Application-with-Stable-Diffusion-a831b9b08ec243a1a1f9f6aa7c15ef13): A Stable Diffusion (SD) project that allows you to create visual representations of products in your brand style based on textual descriptions.
-- [ ] [GenerAds](https://www.notion.so/Building-a-Generative-AI-Application-with-BLOOM-c507f8233598481c81fe3e193dd91ebb): A fine-tuned BLOOM LLM marketing assistant that can help you generate quick, and catchy, advertisements for your products.
+- [ ] AiconOS is a Stable Diffusion project that allows you to generate more accurate and vibrant iOS icons based on textual descriptions. The project is open-source and welcomes contributions from the community.
+- [ ] GenerAdsis a fine-tuned BLOOM LLM marketing assistant that can help you generate quick, and catchy, advertisements for your products.
