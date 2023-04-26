@@ -24,7 +24,7 @@ Our baseline was generated utilizing the inference notebook with original stable
 
 
 ## 📦 Data
-Our curated dataset is based on the images from [iOS Icon Gallery](https://www.iosicongallery.com/), which includes a variety of colorful and practical icons. The dataset consists of textual descriptions of the style "iOS icons". The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](hhttps://huggingface.co/datasets/Ali-fb/ios_icons).
+Our curated dataset is based on the images from [iOS Icon Gallery](https://www.iosicongallery.com/), which includes a variety of colorful and practical icons. The dataset consists of textual descriptions of the style "iOS icons". The dataset has been downsized and cleaned to ensure consistency and accuracy. You can checkout the specific 🤗 HuggingFace Dataset [here](https://huggingface.co/datasets/Ali-fb/ios_icons).
 
 ![icon_4](https://user-images.githubusercontent.com/37101144/234617014-8f592e80-124c-4fbd-9476-ad20fa4ce6cc.png)
 ![icon_2](https://user-images.githubusercontent.com/37101144/234617194-d8003f3c-d0a8-4a64-9e5e-bb67cb8e0e82.png)
