@@ -18,4 +18,4 @@ During this course, you will build, ship, and share your own end-to-end Generati
 ## :collision: Example Applications
 This repo contains two example projects that we will demo during the workshop.  Click on the product names below for more information.
 - [ ] AiconOS is a Stable Diffusion project that allows you to generate more accurate and vibrant iOS icons based on textual descriptions. The project is open-source and welcomes contributions from the community.
-- [ ] GenerAdsis a fine-tuned BLOOM LLM marketing assistant that can help you generate quick, and catchy, advertisements for your products.
+- [ ] GenerAds is a fine-tuned BLOOM LLM marketing assistant that can help you generate quick, and catchy, advertisements for your products.
