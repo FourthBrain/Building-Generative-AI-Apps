@@ -11,6 +11,4 @@ MarketMail-AI is a fine-tuned LLM marketing assistant that can help you generate
 ## 💰 Value Generation
 Using a tool like MarketMail-AI will let you produce high quality marketing emails without needing to spend on marketing experts or copywriters. This will allow you to focus on your core business and spend less time on marketing!
 
-## DEMO
 
-Check out the demo at this [space](https://huggingface.co/spaces/FourthBrainGenAI/MarketMail-AI-Space)!
