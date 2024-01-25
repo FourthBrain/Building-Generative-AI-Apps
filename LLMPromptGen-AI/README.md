@@ -5,7 +5,7 @@ LLMPromptGen-AI is a fine-tuned LLM prompt predictor that can help you determine
 ## 📔 Notebooks
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
-|  🌼**MIXTRAL-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Here](https://colab.research.google.com/github/bensethbell/Building-Generative-AI-Apps/blob/main/%F0%9F%92%AE%20LLMPromptGen-AI%20%F0%9F%92%AE%20Fine-Tuning%20MIXTRAL.ipynb) |
+|  🌼**MIXTRAL-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Here](https://colab.research.google.com/drive/17SPgWEkv2EIA3FgdTmLTIEb6avlOQSF2?usp=sharing) |
 |  🖥️ **Synthetic Dataset Creation Notebook**  | Create Synthetic Data using OpenAI's API | [Here](https://colab.research.google.com/github/bensethbell/Building-Generative-AI-Apps/blob/main/Synthetic%20GPT-4%20Dataset%20Creation%20LLM%20Prompts.ipynb)   |
 
 ## 📚 Data
