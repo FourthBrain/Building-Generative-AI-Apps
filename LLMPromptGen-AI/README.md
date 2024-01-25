@@ -5,7 +5,7 @@ GenerAd AI is a fine-tuned LLM marketing assistant that can help you generate qu
 ## 📔 Notebooks
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
-|  🌼**BLOOM-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Her](https://colab.research.google.com/drive/12qOhhGyoh7qSm1eqeMCbvv63EObH2TBH?usp=sharing) |
+|  🌼**MIXTRAL-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Here](https://colab.research.google.com/github/bensethbell/Building-Generative-AI-Apps/blob/main/%F0%9F%92%AE%20LLMPromptGen-AI%20%F0%9F%92%AE%20Fine-Tuning%20MIXTRAL.ipynb) |
 |  🖥️ **Synthetic Dataset Creation Notebook**  | Create Synthetic Data using OpenAI's API | [Here](https://colab.research.google.com/github/bensethbell/Building-Generative-AI-Apps/blob/main/Synthetic%20GPT-4%20Dataset%20Creation%20LLM%20Prompts.ipynb)   |
 
 ## 📚 Data
