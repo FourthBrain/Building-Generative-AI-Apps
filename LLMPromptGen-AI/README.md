@@ -5,7 +5,7 @@ GenerAd AI is a fine-tuned LLM marketing assistant that can help you generate qu
 ## 📔 Notebooks
 | Notebook | Purpose | Link                                                                                           |
 | :-------- | :-------- | :------------------------------------------------------------------------------------------------ |
-|  🌼**BLOOM-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Here](https://colab.research.google.com/drive/12qOhhGyoh7qSm1eqeMCbvv63EObH2TBH?usp=sharing) |
+|  🌼**BLOOM-LoRA Fine-tuning Notebook**  | Fine-tune and run inference on the fine-tuned result | [Her](https://colab.research.google.com/drive/12qOhhGyoh7qSm1eqeMCbvv63EObH2TBH?usp=sharing) |
 |  🖥️ **GPT-3 Ada Fine-tuning Notebook**  | Fine-tune your model using OpenAI's fine-tuning API | [Here](https://colab.research.google.com/drive/16nc8RXIcM9iulDsAlhfolvKoyar_Xn4f?usp=sharing)   |
 
 ## 📚 Data
